@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Techy-Star/static/css/main.2b14d1a0.css",
+    "main.js": "/Techy-Star/static/js/main.e3f67184.js",
+    "static/media/1.jpg": "/Techy-Star/static/media/1.59dd6d09eea9b891f4ff.jpg",
+    "static/media/4.jpg": "/Techy-Star/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/Techy-Star/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/Techy-Star/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/Techy-Star/index.html",
+    "main.2b14d1a0.css.map": "/Techy-Star/static/css/main.2b14d1a0.css.map",
+    "main.e3f67184.js.map": "/Techy-Star/static/js/main.e3f67184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b14d1a0.css",
+    "static/js/main.e3f67184.js"
+  ]
+}
