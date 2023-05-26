@@ -7,11 +7,11 @@ const Header = () => {
     <nav>
       <h1>TechyStar.</h1>
       <main>
-        <HashLink to={"/#home"}>HOME</HashLink>
-        <Link to={"/contact"}>CONTACT</Link>
-        <HashLink to={"/#brands"}>BRANDS</HashLink>
-        <HashLink to={"/#about"}>ABOUT</HashLink>
-        <Link to={"/services"}>SERVICES</Link>
+        <HashLink to={"/Techy-Star/#home"}>HOME</HashLink>
+        <Link to={"/Techy-Star/contact"}>CONTACT</Link>
+        <HashLink to={"/Techy-Star/#brands"}>BRANDS</HashLink>
+        <HashLink to={"/Techy-Star/#about"}>ABOUT</HashLink>
+        <Link to={"/Techy-Star/services"}>SERVICES</Link>
       </main>
     </nav>
   );
